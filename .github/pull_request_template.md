@@ -20,5 +20,5 @@
 - [ ] Executei com sucesso todos os testes automatizados
       
 🛑 Checklist PR
-- [ ] verifiquei que a branch está atualizada com a branch principal (por exemplo, main ou develop).
+- [ ] Verifiquei que a branch está atualizada com a branch principal (por exemplo, main ou develop).
 - [ ] Verifique se não há conflitos com a branch principal.
