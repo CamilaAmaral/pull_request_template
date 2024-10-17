@@ -31,4 +31,4 @@ Evita o "empurra-empurra" de responsabilidades, já que os critérios ficam clar
 - Melhora a Documentação das Alterações:
 
 O template incentiva a inclusão de descrições claras do que foi alterado, como a mudança foi testada, e os impactos esperados. Isso é particularmente útil para manter um histórico de mudanças bem documentado, o que facilita entender o contexto das modificações no futuro.
-Pode incluir links para issues resolvidas, tornando o PR mais conectado ao planejamento do projeto.
+Pode incluir links para issues resolvidas, tornando o PR mais conectado ao planejamento do projeto. 
