@@ -1,6 +1,6 @@
 # Descrição
 <!-- Descreva brevemente as mudanças implementadas neste PR. Explique o problema que foi resolvido ou a feature que foi implementada. -->
-- **O que foi feito:** Inclusão de nova task
+- **O que foi feito:**
 
 # Verificações
 <!-- Marque as opções abaixo que foram atendidas -->
